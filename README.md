@@ -1,4 +1,3 @@
-# Kubernates
 # *Kubernates*
 ## Namespaces in kubernates
 - #### List the current namespaces in a cluster using:
@@ -15,5 +14,14 @@
 ![image](https://user-images.githubusercontent.com/103022040/164197405-d34015aa-3293-4380-8334-dbeb306582b2.png)
 - #### Delete a namespace with following command
 ![image](https://user-images.githubusercontent.com/103022040/164198254-9f3d421d-75d0-4894-86c1-8e1102cd264b.png)
+# Pods in Kubernates
+- #### They can be simply created with the kubctl run command, where you have a defined image on the Docker registry which we will pull while creating a pod.
+![image](https://user-images.githubusercontent.com/103022040/164211433-0671694a-a571-4ecd-8ca0-b1897af59941.png)
+- #### This can also be done by creating the yaml file and then running the kubectl create command.
+![image](https://user-images.githubusercontent.com/103022040/164212330-eb893c5d-0c5c-4283-87aa-41c8100b38b9.png)
+
+
+
+
 
 
