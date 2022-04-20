@@ -11,3 +11,9 @@
 ![image](https://user-images.githubusercontent.com/103022040/164167853-732dfadb-602e-44c8-8b7c-0655a5caa4bc.png)
 - #### Can view new created namespace using following command  
 ![image](https://user-images.githubusercontent.com/103022040/164192640-29401135-3f1e-4cf5-a664-17f7de0da6d8.png)
+- #### Another way of creating namespace is as follows:
+![image](https://user-images.githubusercontent.com/103022040/164197405-d34015aa-3293-4380-8334-dbeb306582b2.png)
+- #### Delete a namespace with following command
+![image](https://user-images.githubusercontent.com/103022040/164198254-9f3d421d-75d0-4894-86c1-8e1102cd264b.png)
+
+
