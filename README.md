@@ -32,6 +32,11 @@
 ![image](https://user-images.githubusercontent.com/103022040/164391288-0910caee-8a55-4b02-9d2c-e1dc5fd32a90.png)
 - #### show list of all pvc
 ![image](https://user-images.githubusercontent.com/103022040/164391654-2732d81d-a4f7-4cc6-899c-d30457815150.png)
+# *Daemonset*
+- ####  describe a DaemonSet in a YAML file. For example, the daemonset.yaml file below describes a DaemonSet that runs the fluentd-elasticsearch Docker image:
+![image](https://user-images.githubusercontent.com/103022040/164427716-fb534b18-1bb9-469b-8b84-774af7bb7760.png)
+- #### create a Daemonset using following command:
+![image](https://user-images.githubusercontent.com/103022040/164426972-9bcac805-d78c-4475-bce5-cd54532b5284.png)
 
 
 
