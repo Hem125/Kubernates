@@ -37,7 +37,19 @@
 ![image](https://user-images.githubusercontent.com/103022040/164427716-fb534b18-1bb9-469b-8b84-774af7bb7760.png)
 - #### create a Daemonset using following command:
 ![image](https://user-images.githubusercontent.com/103022040/164426972-9bcac805-d78c-4475-bce5-cd54532b5284.png)
-
+# *Implementation of Configmap and secret application (with DB)*
+- #### In configmap example, we will create a simple YAML that contains the data using vi editor
+![image](https://user-images.githubusercontent.com/103022040/164449341-a28ba31f-4319-431e-b17c-9eb5f86f4181.png)
+- #### Configmap created using the kubectl apply command as shown below.
+ ![image](https://user-images.githubusercontent.com/103022040/164450680-939f33fa-f833-4262-a1d1-850dbdd448f0.png)
+- #### Use the following command with the appropriate ConfigMap name defined in the metadata section.
+![image](https://user-images.githubusercontent.com/103022040/164451376-69b0fa48-ea6d-4eb3-95ae-bb587ee2ffa4.png)
+- #### As secrets are defined by type, let’s create a basic-auth type Secret that contains the database username and password using vi editor
+![image](https://user-images.githubusercontent.com/103022040/164452150-a972794f-074d-46ef-9806-dbcc7dc930c8.png)
+- #### Secret can be created using the kubectl apply command as shown below.
+![image](https://user-images.githubusercontent.com/103022040/164452573-628c2f53-f4ef-4f01-8a8b-0360a23a4297.png)
+- #### As secrets contain confidential data, the describe command does not expose this secret data even when the user query through the kubectl using the specific secret name.
+ ![image](https://user-images.githubusercontent.com/103022040/164453031-dd716740-699f-44b3-90e3-5885e1cbbd30.png)
 
 
 
