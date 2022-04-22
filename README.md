@@ -63,3 +63,7 @@
 ![image](https://user-images.githubusercontent.com/103022040/164625440-43e7d133-524b-43e3-9d14-e14d812b8eaa.png)
 - ####  Helm stores deployment information in secrets – here they are:
 ![image](https://user-images.githubusercontent.com/103022040/164625967-042c241e-d9f7-4485-b63b-40aaaa67e9ae.png)
+ - ## *Deply wordpress using helm chart*
+ - #### We can install using command as follows:
+ ![image](https://user-images.githubusercontent.com/103022040/164627632-e3fae070-b819-4bfe-a506-722d4536608a.png)
+
