@@ -50,7 +50,7 @@
 ![image](https://user-images.githubusercontent.com/103022040/164452573-628c2f53-f4ef-4f01-8a8b-0360a23a4297.png)
 - #### As secrets contain confidential data, the describe command does not expose this secret data even when the user query through the kubectl using the specific secret name.
  ![image](https://user-images.githubusercontent.com/103022040/164453031-dd716740-699f-44b3-90e3-5885e1cbbd30.png)
-# HelmChart
+# *HelmChart*
 - #### use the helmcreate command to create a helmchart
 ![image](https://user-images.githubusercontent.com/103022040/164621651-7f19a3ec-bf35-4787-89f5-c4eb1e1b862e.png)
 - #### Let’s deploy an Apache webserver using Helm. As a first step, we need to tell Helm what location to search by adding a Helm repository:
@@ -66,4 +66,7 @@
  - ## *Deply wordpress using helm chart*
  - #### We can install using command as follows:
  ![image](https://user-images.githubusercontent.com/103022040/164627632-e3fae070-b819-4bfe-a506-722d4536608a.png)
+# *GitLab*
+- #### Installation of GitLab in ubuntu using following command:
+![image](https://user-images.githubusercontent.com/103022040/164684402-ccfc831f-05c8-47e9-9406-95c7222ece74.png)
 
