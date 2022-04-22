@@ -50,8 +50,16 @@
 ![image](https://user-images.githubusercontent.com/103022040/164452573-628c2f53-f4ef-4f01-8a8b-0360a23a4297.png)
 - #### As secrets contain confidential data, the describe command does not expose this secret data even when the user query through the kubectl using the specific secret name.
  ![image](https://user-images.githubusercontent.com/103022040/164453031-dd716740-699f-44b3-90e3-5885e1cbbd30.png)
-
-
-
-
-
+# *HelmChart
+- #### use the helmcreate command to create a helmchart
+![image](https://user-images.githubusercontent.com/103022040/164621651-7f19a3ec-bf35-4787-89f5-c4eb1e1b862e.png)
+- #### Let’s deploy an Apache webserver using Helm. As a first step, we need to tell Helm what location to search by adding a Helm repository:
+![image](https://user-images.githubusercontent.com/103022040/164623144-eba6f14d-17e6-4014-a19c-ed9ac75fad8a.png)
+- #### Let’s install the actual container:
+![image](https://user-images.githubusercontent.com/103022040/164624442-ebc09365-1063-43ad-9ee9-0fab36f4b5ee.png)
+- #### After a few minutes your deployment is ready. We can check the state of the containers using kubectl:
+![image](https://user-images.githubusercontent.com/103022040/164624996-ce1366ef-1d5a-425a-a1d2-b85307d7314b.png)
+- #### Helm can show us information about current deployments:
+![image](https://user-images.githubusercontent.com/103022040/164625440-43e7d133-524b-43e3-9d14-e14d812b8eaa.png)
+- ####  Helm stores deployment information in secrets – here they are:
+![image](https://user-images.githubusercontent.com/103022040/164625967-042c241e-d9f7-4485-b63b-40aaaa67e9ae.png)
