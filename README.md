@@ -1,4 +1,5 @@
 # *Kubernates*
+- #### link for kubernate installation help https://www.cloudsigma.com/how-to-install-and-use-kubernetes-on-ubuntu-20-04/
 ## Namespaces in kubernates
 - #### List the current namespaces in a cluster using:
 ![image](https://user-images.githubusercontent.com/103022040/164165865-4ec38472-b717-48c9-ad49-a0dee07eb0f4.png)
